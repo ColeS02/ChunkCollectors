@@ -1,0 +1,10 @@
+name: ChunkCollectors
+version: '${project.version}'
+main: com.unclecole.chunkcollectors.ChunkCollectors
+api-version: 1.19
+prefix: ChunkCollectors
+authors: [ Cole ]
+depend: [ ShopGUIPlus, DecentHolograms ]
+commands:
+  collectors:
+    aliases: [collector]
